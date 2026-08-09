@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | MERN | Java | DSA
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.Tech Computer Science Student
 
 💻 Building full-stack web applications using the MERN stack
 
